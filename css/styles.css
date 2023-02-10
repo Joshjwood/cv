@@ -1,0 +1,35 @@
+body {
+            background-color: #639CD9;
+            }
+            hr {
+            border-style: none;
+            width: 10%;
+            border-top-style: dotted;
+            border-color: #191970;
+            border-width: 5px;
+            }
+            h1 {
+            color: #220E24;
+            font-family: Helvetica, sans-serif;
+            }
+            h3 {
+            color: #220E24;
+            font-family: Helvetica, sans-serif;
+            }
+            p {
+            color: #220E24;
+            font-family: Helvetica, sans-serif;
+            }
+            ul {
+            color: #220E24;
+            font-family: Helvetica, sans-serif;
+            }
+            ol {
+            color: #220E24;
+            font-family: Helvetica, sans-serif;
+            }
+            table {
+            color: #220E24;
+            font-family: Helvetica, sans-serif;
+            }
+
